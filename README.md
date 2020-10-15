@@ -9,9 +9,9 @@ LoginRadius Customer Identity and Access Management SDK for Java
 
 LoginRadius Java Customer Registration wrapper provides access to LoginRadius Identity Management Platform API.
 
-LoginRadius is an Identity Management Platform that simplifies user registration while securing data. LoginRadius Platform simplifies and secures your user registration process, increases conversion with Social Login that combines 30 major social platforms, and offers a full solution with Traditional User Registration. You can gather a wealth of user profile data from Social Login or Traditional User Registration. 
+LoginRadius is an Identity Management Platform that simplifies user registration along with securing data. LoginRadius Platform simplifies and secures your user registration process, increases conversion with Social Login that combines 30 major social media platforms, and offers a full solution with Traditional User Registration. You can gather a wealth of user profile data from Social Login or Traditional User Registration. 
 
-LoginRadius centralizes it all in one place, making it easy to manage and access. Easily integrate LoginRadius with all of your third-party applications, like MailChimp, Google Analytics, Livefyre and many more, making it easy to utilize the data you are capturing.
+LoginRadius centralizes it all in one place, making it easy to manage and access. Easy to integrate LoginRadius with all of your third-party applications like MailChimp, Google Analytics, Livefyre and many more, making it easy to utilize the data you are capturing.
 
 LoginRadius helps businesses boost user engagement on their web/mobile platform, manage online identities, utilize social media for marketing, capture accurate consumer data, and get unique social insight into their customer base.
 
@@ -20,7 +20,7 @@ Please visit [here](http://www.loginradius.com/) for more information.
 
 # Installing
 
-LoginRadius is now using Maven. At present the jars *are* available from a public [maven]( http://search.maven.org/#search%7Cga%7C1%7Cloginradius) repository.
+LoginRadius is now using Maven which is used to automatically download your depency and adjust itself. At present the jars *are* available from a public [maven]( http://search.maven.org/#search%7Cga%7C1%7Cloginradius) repository.
 
 Use the following dependency in your project:
 
@@ -34,7 +34,7 @@ Use the following dependency in your project:
 ```
 
 The jars are also available [here](http://search.maven.org/#search%7Cga%7C1%7Cloginradius). Select the directory for
-the latest version and download the jar files.
+the latest version and download the jar files needed.
 
 ## Documentation
 
@@ -44,7 +44,7 @@ Java Library
 -----
 
 >Disclaimer<br>
->This library is meant to help you with a quick implementation of the LoginRadius platform and also to serve as a reference point for the LoginRadius API. Keep in mind that it is an open source library, which means you are free to download and customize the library functions based on your specific application needs.
+>This library is meant to help you with a quick implementation of the LoginRadius platform and also to serve as a reference point for the LoginRadius API. Keep in mind that it is an open source library, which means you are free to download and customize the library functions based on your specific application needs and helps to do some innovatib=ve with your ideas.
 
 
 
